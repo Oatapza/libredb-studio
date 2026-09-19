@@ -106,3 +106,9 @@ If you're interested in contributing to libredb-studio, we welcome your input! P
 ## 🎉 Conclusion
 
 Thank you for choosing libredb-studio for your database needs. We hope you enjoy a seamless experience as you work with your data in the cloud.
+
+## Reference Project:
+* [https://libredb.org](https://libredb.org)
+* [https://github.com/libredb/libredb-studio](https://github.com/libredb/libredb-studio)
+
+
